@@ -1,1 +1,1 @@
-console.log('Novo na equipe! :)')
+console.log('Novo na equipe :)')
