@@ -1,1 +1,0 @@
-cadastro.log('cadastro de empresa implementado!')
